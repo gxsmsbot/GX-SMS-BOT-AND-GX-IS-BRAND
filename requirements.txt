@@ -3,3 +3,4 @@ google-auth
 psutil
 pyTelegramBotAPI
 requests
+pyotp
