@@ -4,3 +4,4 @@ psutil
 pyTelegramBotAPI
 requests
 pyotp
+bs4
